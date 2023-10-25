@@ -1,5 +1,5 @@
 const clientId = 'a5e66e3b8111402e86b44a61ec247f29'; 
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'https://jammming-playlist-ubink.netlify.app';
 let accessToken;
 
 const Spotify = {
