@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 0;
+    align-content: center;
+    background-color: rgba(50, 20, 59, 0.623);
+    width: 50%;
+    border-radius: 15px;
+}
+
+.listName {
+    
+    background-color: #6c41ec;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: none;
+}
+
+.save {
+    margin-top: 25px;
+    background-color: rgb(68, 15, 117);
+    color: white;
+    border-radius: 16px;
+    padding: 10px;
+    border: none;
+}
